@@ -1,2 +1,2 @@
 # TP_Estudiantes_Solidity
-Estudiante implementado en solidity
+Axel S. y Thiago M.
