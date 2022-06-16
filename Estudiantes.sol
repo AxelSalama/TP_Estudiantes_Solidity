@@ -30,7 +30,7 @@ contract Estudiante{
          return _apellido;
      }
      function nombre_completo() public view returns (string memory){
-          return string.concat(_nombre, _apellido);    
+          return string.conact(_nombre, _apellido);    
     }
 
     function curso() public view returns (string memory){
